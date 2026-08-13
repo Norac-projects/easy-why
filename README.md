@@ -7,6 +7,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=850&lines=Your+computer+is+hot%2C+slow%2C+or+loud+right+now;...and+every+other+tool+makes+you+guess+why." alt="Typing SVG" />
 
+
+
+<img src="src/MainScreen.png" alt="Main Screen Easy Why Tool" width="80%"/>
+<br/>
+<br/><br/>
+
 <br />
 
 <p>
@@ -19,9 +25,6 @@
 
 <br />
 
-<img src="src/MainScreen.png" alt="Main Screen Easy Why Tool" width="80%"/>
-<br/>
-<br/><br/>
 
 </div>
 
