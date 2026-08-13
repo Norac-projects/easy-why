@@ -2,7 +2,8 @@
 
 
 <div align="center">
-
+    
+<img src="src/Logo.png" alt="Norac Projects Logo" width="500"/>
 <img src="src/MainScreen.png" alt="Norac Projects Logo" width="2000"/>
     
 
@@ -136,7 +137,6 @@ MIT — see [LICENSE](LICENSE). Use it, fork it, ship it.
 
 ---
 
-<img src="src/Logo.png" alt="Norac Projects Logo" width="500"/>
 
 
 *Built because "why is my computer doing that" deserves an actual answer.*
