@@ -2,11 +2,9 @@
 
 
 <div align="center">
-src/MainScreen.png
 
 <img src="src/MainScreen.png" alt="Norac Projects Logo" width="2000"/>
     
-<img src="src/Logo.png" alt="Norac Projects Logo" width="500"/>
 
 
 **Your computer is hot, slow, or loud right now — and every other tool makes you guess why.**
@@ -137,5 +135,8 @@ Pure Python 3.13 front to back — the UI styling is Qt stylesheets embedded in 
 MIT — see [LICENSE](LICENSE). Use it, fork it, ship it.
 
 ---
+
+<img src="src/Logo.png" alt="Norac Projects Logo" width="500"/>
+
 
 *Built because "why is my computer doing that" deserves an actual answer.*
