@@ -4,7 +4,7 @@
 <div align="center">
 src/MainScreen.png
 
-<img src="src/MainScreen.png" alt="Norac Projects Logo" width="500"/>
+<img src="src/MainScreen.png" alt="Norac Projects Logo" width="2000"/>
     
 <img src="src/Logo.png" alt="Norac Projects Logo" width="500"/>
 
