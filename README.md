@@ -85,6 +85,41 @@ Fans spun up ten minutes ago and calmed down before you could look? Easy Why log
 ## 🔒 Privacy 
 
 Nothing leaves your machine. No telemetry, no network calls, no accounts, no nonsense. It's a diagnostic tool, not a data harvester. 
+<br/><br/>
+
+## ⬇️ Download EasyWhy
+
+**Just want to use EasyWhy?** Download the ready-to-run Windows app — no Python, installation, or setup required.
+
+<p align="center">
+  <a href="https://github.com/Norac-projects/easy-why/releases/latest/download/EasyWhy.exe">
+    <img src="https://img.shields.io/badge/⬇%20Download%20EasyWhy.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download EasyWhy.exe"/>
+  </a>
+  <br>
+  <sub>Windows • Latest release</sub>
+</p>
+
+### How to run
+
+1. Click **Download EasyWhy.exe** above.
+2. Double-click **`EasyWhy.exe`**.
+3. For full sensor access and the ability to apply fixes, **right-click → Run as administrator**.
+
+EasyWhy can still run without administrator privileges and will clearly indicate anything that is unavailable.
+
+> 🖥️ **Using Linux or Raspberry Pi?**
+> The `.exe` is Windows-only. See the **[Quick Start](#-quick-start)** section for running EasyWhy from source.
+
+> ⚠️ **Windows SmartScreen**
+> EasyWhy is currently unsigned, so Windows may show **“Windows protected your PC.”** If this appears, click **More info → Run anyway**.
+
+### 🧑‍💻 Developers
+
+Want to build EasyWhy from source, contribute, or explore the project internals?
+
+Skip the `.exe` and continue to **[Quick Start](#-quick-start)** and **[Project Layout](#-project-layout)**.
+
+<br/><br/>
 
 ## 🚀 Quick start 
 
