@@ -145,6 +145,65 @@ pyinstaller EasyWhy.spec
 
 Grab `dist/EasyWhy.exe` — single file, double-click, done. On Linux/Pi, the standard `pip install` route is the recommended path (PyInstaller works there too, but the binary is tied to the machine's glibc, so build it on the target).
 
+## 📦 Install from PyPI
+
+If you just want to install Easy Why as a Python package, you can install it directly from PyPI:
+
+```bash
+python -m pip install --upgrade easy-why
+```
+
+Then launch Easy Why with:
+
+```bash
+easy-why
+```
+
+### 🪟 Windows users
+
+If Windows says:
+
+```text
+'easy-why' is not recognized as an internal or external command
+```
+
+the Python `Scripts` directory may not be in your `PATH`.
+
+You can find your Python user directory with:
+
+```cmd
+python -m site --user-base
+```
+
+For Python 3.14, the `Scripts` directory will typically be:
+
+```text
+C:\Users\<YourUsername>\AppData\Roaming\Python\Python314\Scripts
+```
+
+Add that directory to your Windows **User PATH**, then close and reopen your terminal.
+
+You can also verify that the command is available with:
+
+```cmd
+where easy-why
+```
+
+### 🛡️ Run as Administrator
+
+Some Easy Why features require elevated privileges for full sensor access and remediation capabilities.
+
+On Windows, open **Command Prompt or PowerShell as Administrator**, then run:
+
+```cmd
+easy-why
+```
+
+Easy Why can still run without administrator privileges and will indicate which features are unavailable.
+
+> **Tip:** Running the terminal as Administrator is recommended when you want Easy Why to have access to all supported system sensors and fixes.
+
+
 ## 📂 Project layout
 
 ```text
