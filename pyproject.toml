@@ -1,15 +1,13 @@
-```toml
 [build-system]
 requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "easy-why"
-version = "0.1.0"
-description = "Easy Why - diagnose why your computer is hot, slow, or loud"
+version = "1.0.0"
+description = "Easy Why"
 readme = "README.md"
 requires-python = ">=3.9"
 
 [tool.setuptools.packages.find]
 where = ["src"]
-```
