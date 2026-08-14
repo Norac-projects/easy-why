@@ -4,10 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "easy-why"
-version = "1.0.0"
+version = "1.0.1"
 description = "Easy Why"
 readme = "README.md"
 requires-python = ">=3.9"
+
+[project.scripts]
+easy-why = "easywhy.app:run"
 
 [tool.setuptools.packages.find]
 where = ["src"]
